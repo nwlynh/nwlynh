@@ -40,7 +40,7 @@ $ status
 
 ---
 
-### 📊 GitHub Stats
+### 🛰️ digital_footprint.trace
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nwlynh&show_icons=true&hide_border=true&count_private=true&bg_color=0D0208&title_color=00FF41&text_color=c9d1d9&icon_color=FF003C&border_color=00FF41" />
