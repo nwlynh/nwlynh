@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=nwlynh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cryptography%20%7C%20OSINT%20%7C%20Security%20Research&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/nwlynh">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Breaking+ciphers%2C+not+trust.;OSINT+%7C+Cryptanalysis+%7C+CTF;Building+a+portfolio+in+public...;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=cryptographer.;osint+researcher.;trust+no+plaintext." alt="Typing SVG" />
 </a>
 
 <p>
@@ -15,32 +15,38 @@
 
 ---
 
-### 👤 Về tôi
+### 👤 whoami
 
-- 🔐 Đang xây dựng nền tảng vững chắc về **Cryptography** và **OSINT** (Open Source Intelligence)
-- 🧩 Thích giải các bài **CTF** liên quan tới crypto, forensics, và recon
-- 📚 Đang chuẩn bị một portfolio GitHub nghiêm túc để ứng tuyển các vị trí Security/Threat Intel
-- 🌱 Luôn học hỏi thêm về giao thức mã hóa, threat modeling và kỹ thuật thu thập thông tin có đạo đức
-- 📫 Cách liên hệ: *thêm email/LinkedIn của bạn ở đây*
+```bash
+$ whoami
+cryptographer & osint researcher
+
+$ status
+[ classified ]
+```
+
+> 📫 *thêm email/LinkedIn của bạn ở đây nếu muốn để nhà tuyển dụng liên hệ*
 
 ---
 
-### 🛠️ Kỹ năng & Công cụ
+### 🛠️ Kỹ năng
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRYPTOGRAPHY-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-> 💡 *Danh sách trên chỉ là gợi ý — hãy chỉnh lại đúng công cụ/ngôn ngữ bạn thực sự dùng.*
+> 💡 *Chỉ để 3 tag cốt lõi cho "bí ẩn" — khi bạn thạo thêm ngôn ngữ/công cụ cụ thể (Python, Rust, v.v.) thì thêm badge sau, đừng để lộ những gì chưa chắc chắn.*
+
+---
+
+### 🕵️ OSINT Industry
+
+Đã tham gia các thử thách OSINT tại [ctf.osint.industries](https://ctf.osint.industries/) (`@genrngx`):
+
+- *TODO: điền tên/link challenge thật đã hoàn thành ở đây — mình không truy cập được profile để tự lấy (trang trả 403), nên không tự bịa*
+- *TODO: ...*
 
 ---
 
