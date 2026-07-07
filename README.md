@@ -25,8 +25,6 @@ $ status
 [ classified ]
 ```
 
-> 📫 *thêm email/LinkedIn của bạn ở đây nếu muốn để nhà tuyển dụng liên hệ*
-
 ---
 
 ### 🛠️ Kỹ năng
@@ -41,33 +39,6 @@ $ status
 
 ---
 
-### 🕵️ OSINT Industry
-
-Đã tham gia các thử thách OSINT tại [ctf.osint.industries](https://ctf.osint.industries/) (`@genrngx`):
-
-- *TODO: điền tên/link challenge thật đã hoàn thành ở đây — mình không truy cập được profile để tự lấy (trang trả 403), nên không tự bịa*
-- *TODO: ...*
-
----
-
-### 📌 Dự án nổi bật
-
-<!--
-  Thay các dòng bên dưới bằng repo thật của bạn.
-  Cú pháp pin-card tự động lấy sao/fork/ngôn ngữ từ GitHub.
--->
-
-<p align="center">
-  <a href="https://github.com/nwlynh/repo-1">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=nwlynh&repo=repo-1&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/nwlynh/repo-2">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=nwlynh&repo=repo-2&theme=dark&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -79,17 +50,21 @@ $ status
   <img src="https://streak-stats.demolab.com?user=nwlynh&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<!--
+  Contribution snake animation: workflow đã có sẵn ở .github/workflows/snake.yml.
+  Sau khi bạn vào tab Actions bấm chạy (workflow_dispatch) và nó tạo xong branch `output`,
+  bỏ comment khối bên dưới để hiện animation.
 
-### 🐍 Contribution Snake
+  ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nwlynh/nwlynh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nwlynh/nwlynh/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nwlynh/nwlynh/output/github-contribution-grid-snake.svg" />
-</picture>
+  ### 🐍 Contribution Snake
 
-<sub>Animation này cần workflow trong <code>.github/workflows/snake.yml</code> (đã tạo sẵn) chạy ít nhất 1 lần để sinh ra file svg trên branch <code>output</code>.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nwlynh/nwlynh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nwlynh/nwlynh/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nwlynh/nwlynh/output/github-contribution-grid-snake.svg" />
+  </picture>
+-->
 
 <div align="center">
 
