@@ -40,13 +40,6 @@ $ status
 
 ---
 
-### 🛰️ digital_footprint.trace
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nwlynh&show_icons=true&hide_border=true&count_private=true&bg_color=0D0208&title_color=00FF41&text_color=c9d1d9&icon_color=FF003C&border_color=00FF41" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwlynh&layout=compact&hide_border=true&bg_color=0D0208&title_color=00FF41&text_color=c9d1d9&border_color=00FF41" />
-</p>
-
 <!--
   Contribution snake animation: workflow đã có sẵn ở .github/workflows/snake.yml.
   Sau khi bạn vào tab Actions bấm chạy (workflow_dispatch) và nó tạo xong branch `output`,
