@@ -25,7 +25,7 @@ $ location
 [ REDACTED ]
 
 $ status
-[ ONLINE — ENCRYPTED ]
+[ GHOST MODE :: ACTIVE ]
 ```
 
 ---
@@ -37,8 +37,6 @@ $ status
   <img src="https://img.shields.io/badge/OSINT-00FF41?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/CTF-9D00FF?style=for-the-badge&logoColor=white" />
 </p>
-
-> 💡 *Chỉ để 3 tag cốt lõi cho "bí ẩn" — khi bạn thạo thêm ngôn ngữ/công cụ cụ thể (Python, Rust, v.v.) thì thêm badge sau, đừng để lộ những gì chưa chắc chắn.*
 
 ---
 
