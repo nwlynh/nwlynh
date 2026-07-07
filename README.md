@@ -47,10 +47,6 @@ $ status
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwlynh&layout=compact&hide_border=true&bg_color=0D0208&title_color=00FF41&text_color=c9d1d9&border_color=00FF41" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nwlynh&hide_border=true&background=0D0208&ring=00FF41&fire=FF003C&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681&stroke=00FF41" alt="GitHub Streak" />
-</p>
-
 <!--
   Contribution snake animation: workflow đã có sẵn ở .github/workflows/snake.yml.
   Sau khi bạn vào tab Actions bấm chạy (workflow_dispatch) và nó tạo xong branch `output`,
