@@ -1,58 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,45:101827,100:6b1f2b&height=230&section=header&text=NWLYNH&fontSize=76&fontColor=f0d58a&animation=fadeIn&fontAlignY=37&desc=THE%20RIFT%20HAS%20NO%20SECRETS&descAlignY=58&descSize=17&descColor=c8b47a" width="100%" />
+<img src="https://skins.nerfplz.com/art/498003_splash.jpg" width="100%" alt="SSG Xayah splash art" />
 
-<br />
+<img src="./assets/ssg-aura.svg" width="100%" alt="Arcane blue and gold aura" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&weight=600&size=21&duration=2600&pause=900&color=F0D58A&background=0B0F18&center=true&vCenter=true&width=720&height=42&lines=%5B+SUMMONER+CONNECTED+%5D;%5B+ARCANE+ARCHIVES+UNLOCKED+%5D;cryptographer+%26+osint+researcher.;trust+no+plaintext." alt="Summoner status" />
+<h1>NWLYNH</h1>
 
-<br />
+<p><strong>SSG XAYAH MAIN · CRYPTOGRAPHER · OSINT RESEARCHER</strong></p>
 
-<a href="https://github.com/nwlynh"><img src="https://img.shields.io/badge/PROFILE-NWLYNH-f0d58a?style=for-the-badge&labelColor=101827" alt="profile" /></a>
-<a href="https://github.com/nwlynh?tab=followers"><img src="https://img.shields.io/github/followers/nwlynh?style=for-the-badge&label=FOLLOWERS&color=8f3041&labelColor=101827" alt="followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=nwlynh&label=VISITORS&color=f0d58a&style=for-the-badge&labelColor=101827" alt="profile views" />
+<p>
+  <img src="https://img.shields.io/badge/●%20ONLINE-101827?style=flat-square&labelColor=6E5BEF&color=101827" alt="online" />
+  <img src="https://img.shields.io/badge/ROLE-ARCANE%20EXPLORER-101827?style=flat-square&labelColor=E8C77A&color=101827" alt="role" />
+  <img src="https://komarev.com/ghpvc/?username=nwlynh&label=VISITORS&color=101827&style=flat-square&labelColor=6E5BEF" alt="profile views" />
+</p>
+
+<p><em>“The best blades are the ones you never see coming.”</em></p>
 
 </div>
 
 <br />
 
-<table align="center">
+<table align="center" width="92%">
 <tr>
-<td width="54%" valign="top">
+<td width="58%" valign="top">
 
-## ✦ The Summoner
-
-> *“Knowledge is the sharpest blade.”*
+## ✦ Summoner Profile
 
 ```text
-╭────────────────────────────────────╮
-│  SUMMONER  ·  NWLYNH               │
-│  ROLE      ·  ARCANE EXPLORER      │
-│  CLASS     ·  CRYPTO / OSINT       │
-│  STATUS    ·  ONLINE               │
-│  LOCATION  ·  [ REDACTED ]         │
-╰────────────────────────────────────╯
+╭─────────────────────────────────────────╮
+│  NWLYNH                                  │
+│  ───────────────────────────────────────  │
+│  MAIN       SSG XAYAH                    │
+│  CLASS      CRYPTO / OSINT               │
+│  STATUS     ONLINE · GHOST MODE          │
+│  REGION     [ REDACTED ]                 │
+╰─────────────────────────────────────────╯
 ```
 
-I explore the space where cryptography, intelligence and adversarial thinking meet. Every repository is a spellbook; every challenge, a new map to decode.
+I work at the edge of cryptography, intelligence and adversarial thinking. Repositories are my archive; challenges are the next objective.
 
 </td>
-<td width="46%" valign="top">
+<td width="42%" valign="top" align="center">
 
-## ⚔ Current Quest
+## ✧ Loadout
 
-```text
-╭──────────────────────────────╮
-│  ✧ decoding the unknown      │
-│  ✧ hunting hidden signals    │
-│  ✧ building resilient tools  │
-│  ✧ leaving no plaintext      │
-╰──────────────────────────────╯
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GHOST_MODE-ACTIVE-8f3041?style=for-the-badge&labelColor=101827" alt="ghost mode active" />
-</p>
+<img src="https://img.shields.io/badge/CRYPTOGRAPHY-6E5BEF?style=for-the-badge&labelColor=101827" alt="cryptography" /><br />
+<img src="https://img.shields.io/badge/OSINT-8C7BFF?style=for-the-badge&labelColor=101827" alt="osint" /><br />
+<img src="https://img.shields.io/badge/CTF-E8C77A?style=for-the-badge&labelColor=101827" alt="ctf" /><br />
+<img src="https://img.shields.io/badge/RESEARCH-9CA7C7?style=for-the-badge&labelColor=101827" alt="research" />
 
 </td>
 </tr>
@@ -60,46 +55,32 @@ I explore the space where cryptography, intelligence and adversarial thinking me
 
 <br />
 
-## ✧ Skill Tree
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CRYPTOGRAPHY-f0d58a?style=for-the-badge&labelColor=101827" alt="cryptography" />
-  <img src="https://img.shields.io/badge/OSINT-c8b47a?style=for-the-badge&labelColor=101827" alt="osint" />
-  <img src="https://img.shields.io/badge/CTF-8f3041?style=for-the-badge&labelColor=101827" alt="ctf" />
-  <img src="https://img.shields.io/badge/RESEARCH-5c779b?style=for-the-badge&labelColor=101827" alt="research" />
-</p>
+<img src="./assets/ssg-aura.svg" width="92%" alt="glowing separator" />
 
-<table align="center">
-<tr>
-<td align="center" width="25%"><b>🔮 CRYPTO</b><br /><sub>ciphers · protocols<br />number theory</sub></td>
-<td align="center" width="25%"><b>👁 OSINT</b><br /><sub>recon · signals<br />open sources</sub></td>
-<td align="center" width="25%"><b>⚡ CTF</b><br /><sub>web · reverse<br />forensics</sub></td>
-<td align="center" width="25%"><b>🛡 BUILD</b><br /><sub>tools · automation<br />experiments</sub></td>
-</tr>
-</table>
-
-<br />
+</div>
 
 ## ✦ Battle Record
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nwlynh&show_icons=true&hide_border=true&bg_color=101827&title_color=f0d58a&text_color=d5d9e2&icon_color=8f3041&ring_color=f0d58a" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwlynh&layout=compact&hide_border=true&bg_color=101827&title_color=f0d58a&text_color=d5d9e2" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=nwlynh&show_icons=true&hide_border=true&border_radius=18&bg_color=101827&title_color=E8C77A&text_color=D9DDF0&icon_color=8C7BFF&ring_color=6E5BEF" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwlynh&layout=compact&hide_border=true&border_radius=18&bg_color=101827&title_color=E8C77A&text_color=D9DDF0" height="170" alt="Top languages" />
 
 </div>
 
 <br />
+
+## ✦ Tần suất làm việc
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nwlynh&bg_color=101827&color=f0d58a&line=8f3041&point=f0d58a&area=true&hide_border=true" width="94%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nwlynh&bg_color=101827&color=E8C77A&line=6E5BEF&point=E8C77A&area=true&hide_border=true" width="94%" alt="GitHub activity graph" />
 
 </div>
 
 <br />
-
-## ✦ Contribution Relic
 
 <div align="center">
 
@@ -109,20 +90,12 @@ I explore the space where cryptography, intelligence and adversarial thinking me
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/nwlynh/nwlynh/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </picture>
 
-</div>
+<br /><br />
 
-<br />
-
-<div align="center">
-
-### ⟡ Enter the archive
-
-<a href="https://github.com/nwlynh?tab=repositories"><img src="https://img.shields.io/badge/VIEW_REPOSITORIES-f0d58a?style=for-the-badge&labelColor=101827" alt="view repositories" /></a>
+<a href="https://github.com/nwlynh?tab=repositories"><img src="https://img.shields.io/badge/ENTER%20THE%20ARCHIVE-E8C77A?style=for-the-badge&labelColor=101827" alt="view repositories" /></a>
 
 <br /><br />
 
-<sub>⚔ No plaintext was harmed in the making of this profile.</sub>
+<sub>SSG Xayah splash art · World Champions: 2017</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b1f2b,55:101827,100:080b12&height=120&section=footer" width="100%" />
